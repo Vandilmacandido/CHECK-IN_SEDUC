@@ -1,0 +1,6 @@
+﻿app/(tabs)/_layout.tsx(5,24): error TS2307: Cannot find module '@/constants/Colors' or its corresponding type declarations.
+app/event/[id].tsx(74,95): error TS2339: Property 'EncodingType' does not exist on type 'typeof import("C:/Users/vandi/Desktop/app/Check-in/node_modules/expo-file-system/build/index")'.
+app/event/[id].tsx(120,35): error TS2339: Property 'documentDirectory' does not exist on type 'typeof import("C:/Users/vandi/Desktop/app/Check-in/node_modules/expo-file-system/build/index")'.
+app/event/[id].tsx(121,81): error TS2339: Property 'EncodingType' does not exist on type 'typeof import("C:/Users/vandi/Desktop/app/Check-in/node_modules/expo-file-system/build/index")'.
+app/participant/[id].tsx(27,39): error TS2339: Property 'cacheDirectory' does not exist on type 'typeof import("C:/Users/vandi/Desktop/app/Check-in/node_modules/expo-file-system/build/index")'.
+app/participant/[id].tsx(28,86): error TS2339: Property 'EncodingType' does not exist on type 'typeof import("C:/Users/vandi/Desktop/app/Check-in/node_modules/expo-file-system/build/index")'.
